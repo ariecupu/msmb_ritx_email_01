@@ -62,7 +62,8 @@ table.main-container {
     border: 1px solid #dddddd;
     border-radius: 8px;
     padding: 20px;
-    height: 180px;
+    height: auto;
+    min-height: 180px;
     margin: 10px;
 }
 .grey-box h4 {
